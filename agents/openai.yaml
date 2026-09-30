@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 299"
+  short_description: "复印残档：上半保留原照，下半把主体收成无法完全复原的复印残档"
+  default_prompt: "Use $xxd-panel-299 to transform my photograph following the complete canonical source brief."
