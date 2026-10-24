@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-299
-description: "Create XXD Panel 299 raster artwork: a faithful photograph paired with one damaged 1-bit archival symbol, xerox grain, broken contour and a large blank. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-299 or asks for this 复印残档 style."
+description: "XXD Panel 299｜Xerox Residue: keeps the photo and turns its subject into one small archival mark that looks photocopied too many times — a high-contrast 1-bit threshold image with extreme tonal compression, eroded and broken contours, pixel dither, coarse halftone and ink erosion on paper, where black reads as toner residue and white as missing, unrecorded information, recognisable but never fully explained — mostly black, white and grey with at most a faint trace of one emotional colour from the photo, one form in large whitespace, centred or slightly offset, with a tiny archive number or short word in a small type with old-print errors. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-299 or asks for a xeroxed 1-bit symbol, degraded bitmap mark or photocopy archive emblem from a photo."
 ---
 
 # XXD Panel 299

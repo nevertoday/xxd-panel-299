@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 299"
-  short_description: "复印残档：上半保留原照，下半把主体收成无法完全复原的复印残档"
-  default_prompt: "Use $xxd-panel-299 to transform my photograph following the complete canonical source brief."
+  short_description: "复印残档：把照片主体收成一枚高反差、网点侵蚀、能认出却说不完的复印残档"
+  default_prompt: "Use $xxd-panel-299 to turn my photo into Xerox Residue artwork."

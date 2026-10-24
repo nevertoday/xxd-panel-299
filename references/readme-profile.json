@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 299｜Xerox Residue: keeps the photo and turns its subject into one small archival mark that looks photocopied too many times — a high-contrast 1-bit threshold image with extreme tonal compression, eroded and broken contours, pixel dither, coarse halftone and ink erosion on paper, where black reads as toner residue and white as missing, unrecorded information, recognisable but never fully explained — mostly black, white and grey with at most a faint trace of one emotional colour from the photo, one form in large whitespace, centred or slightly offset, with a tiny archive number or short word in a small type with old-print errors. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-299 or asks for a xeroxed 1-bit symbol, degraded bitmap mark or photocopy archive emblem from a photo.",
+  "short_description": "复印残档：把照片主体收成一枚高反差、网点侵蚀、能认出却说不完的复印残档",
+  "zh-CN": {
+    "name": "复印残档",
+    "tagline": "把照片主体收成一枚像被反复复印过、能认出却无法完全复原的黑白残档。",
+    "look": "原照片保留；主体被转成高反差的一比特黑白阈值图形，色阶被压到极限，轮廓被侵蚀、破碎，带像素抖动、粗网点、复印损耗和墨蚀。黑色像复印后扩大的墨粉残留，白色代表曝光、缺失和没被保存下来的信息，形状能辨认，但讲不清全部。以黑、白、灰为主，最多残留一点极弱的原图情绪色。一个主体、一个核心形态，居中或略偏，周围大片留白，旁边是带旧印刷误差的极小档案编号或短词。",
+    "traits": ["一比特复印", "破损轮廓", "网点侵蚀", "档案残留", "大量留白"],
+    "good": [
+      "剪影鲜明、高反差下仍能认出的主体：一只手、一张侧脸、一把椅子、一棵树",
+      "光影对比强的照片：逆光人物、窗格投影、强烈日光下的建筑",
+      "想做成地下出版物、实验诗集封面或艺术档案标记的照片"
+    ],
+    "poor": [
+      "需要保留颜色、细腻层次或清楚五官的照片",
+      "想要干净矢量、清晰商业 Logo 或现代 UI 图标的用途",
+      "想要完整照片效果、小插画或装饰纹样的需求"
+    ]
+  },
+  "en": {
+    "name": "Xerox Residue",
+    "tagline": "Turns the subject of your photo into a black-and-white trace that looks copied too often to be fully restored.",
+    "look": "Your photo stays; the subject becomes a high-contrast 1-bit threshold image with tones crushed to the limit and contours eroded and broken, showing pixel dither, coarse halftone, photocopy loss and ink erosion. Black reads as toner residue spread by copying, white as exposure, absence and information that was never kept, so the shape is recognisable but never fully explained. It is mostly black, white and grey, with at most a very faint trace of one emotional colour from the photo. One subject, one core form, centred or slightly off, sits in wide whitespace with a tiny archive number or short word in type showing old-print errors.",
+    "traits": ["1-bit photocopy", "Broken contour", "Halftone erosion", "Archival residue", "Lots of whitespace"],
+    "good": [
+      "Bold silhouettes that survive high contrast: a hand, a face in profile, a chair, a tree",
+      "Photos with strong light and shadow: a backlit figure, window shadows, a building in harsh sun",
+      "Photos you want for an underground zine, an experimental poetry cover or an art-archive mark"
+    ],
+    "poor": [
+      "Photos that need colour, subtle tonal range or clear facial features",
+      "Uses that need clean vectors, a crisp commercial logo or a modern UI icon",
+      "Requests for a full photo effect, a small illustration or decorative patterns"
+    ]
+  },
+  "ja": {
+    "name": "コピーの残骸",
+    "tagline": "写真の主役を、何度もコピーされたような、見分けられても完全には戻らない白黒の残骸にします。",
+    "look": "元の写真は残し、主役を高コントラストの1ビット二値化の図形に変えます。階調は限界まで潰され、輪郭は侵食されて砕け、ピクセルのディザ、粗い網点、コピーの劣化、インクの侵食が現れます。黒はコピーで広がったトナーの残りのように、白は露光、欠落、保存されなかった情報のように見え、形はわかっても全部は説明できません。黒、白、グレーが中心で、写真の感情の色はあってもごくかすかな名残だけです。主役ひとつ、核となる形ひとつを中央か少しずらして置き、まわりは広い余白で、古い印刷のずれを帯びたごく小さな記録番号か短い言葉が添えられます。",
+    "traits": ["1ビットのコピー", "壊れた輪郭", "網点の侵食", "記録の残り", "たっぷりの余白"],
+    "good": [
+      "高コントラストでも見分けられる強いシルエット：手、横顔、椅子、木",
+      "光と影の差が強い写真：逆光の人物、窓枠の影、強い日差しの建物",
+      "アンダーグラウンドのZINE、実験的な詩集の表紙、アートアーカイブのマークにしたい写真"
+    ],
+    "poor": [
+      "色、繊細な階調、はっきりした目鼻立ちを残したい写真",
+      "きれいなベクター、くっきりした商業ロゴ、現代的なUIアイコンが必要な用途",
+      "写真そのものの仕上がり、小さなイラスト、装飾模様を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "복사본 잔해",
+    "tagline": "사진 속 주인공을 여러 번 복사된 듯, 알아볼 수는 있어도 완전히 되돌릴 수 없는 흑백 잔해로 만듭니다.",
+    "look": "원본 사진은 남기고, 주인공을 고대비 1비트 이진화 도형으로 바꿉니다. 계조는 한계까지 눌리고 윤곽은 침식되어 부서지며, 픽셀 디더링, 굵은 망점, 복사 손실, 잉크 침식이 드러납니다. 검정은 복사로 번진 토너 찌꺼기처럼, 흰색은 노출, 결손, 보존되지 못한 정보처럼 보여, 형태는 알아봐도 전부 설명되지는 않습니다. 검정, 흰색, 회색이 중심이고 사진의 감정 색은 있더라도 아주 희미한 흔적뿐입니다. 주인공 하나, 핵심 형태 하나를 가운데나 살짝 비켜 두고 주변은 넓은 여백이며, 옛 인쇄 오차가 있는 아주 작은 기록 번호나 짧은 단어가 붙습니다.",
+    "traits": ["1비트 복사", "부서진 윤곽", "망점 침식", "기록의 잔여", "넓은 여백"],
+    "good": [
+      "고대비에서도 알아보는 뚜렷한 실루엣: 손, 옆얼굴, 의자, 나무",
+      "빛과 그림자의 대비가 강한 사진: 역광 인물, 창틀 그림자, 강한 햇빛 속 건물",
+      "언더그라운드 잡지, 실험적인 시집 표지, 예술 아카이브 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색, 섬세한 계조, 또렷한 이목구비를 남겨야 하는 사진",
+      "깔끔한 벡터, 선명한 상업 로고, 현대적인 UI 아이콘이 필요한 용도",
+      "사진 그대로의 효과, 작은 일러스트, 장식 무늬를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بقايا النسخ الضوئي",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى أثر بالأبيض والأسود كأنه نُسخ مرات كثيرة فلا يُستعاد كاملاً.",
+    "look": "تبقى صورتك، ويتحول العنصر إلى صورة عتبية أحادية البت عالية التباين، سُحقت درجاتها إلى أقصى حد وتآكلت خطوطها الخارجية وتكسّرت، مع تنقيط بكسلي وشبكة نقاط خشنة وفقد النسخ الضوئي وتآكل الحبر. يبدو الأسود كبقايا حبر انتشرت بالنسخ، والأبيض كتعريض ضوئي وغياب ومعلومات لم تُحفظ، فيُعرف الشكل دون أن يُفهم كله. الغلبة للأسود والأبيض والرمادي، مع أثر باهت جداً من لون عاطفي واحد على الأكثر. عنصر واحد وشكل جوهري واحد، في الوسط أو منحرف قليلاً، وسط فراغ واسع، ومعه رقم أرشيفي صغير جداً أو كلمة قصيرة بخط تظهر فيه أخطاء الطباعة القديمة.",
+    "traits": ["نسخ أحادي البت", "خط مكسور", "تآكل النقاط", "بقايا أرشيفية", "فراغ كثير"],
+    "good": [
+      "ظلال قوية تصمد أمام التباين العالي: يد، وجه من الجانب، كرسي، شجرة",
+      "صور فيها تباين قوي بين الضوء والظل: شخص في إضاءة خلفية، ظلال إطار نافذة، مبنى تحت شمس حادة",
+      "صور تريدها لمجلة مستقلة سرّية أو غلاف ديوان تجريبي أو علامة لأرشيف فني"
+    ],
+    "poor": [
+      "صور تحتاج الألوان أو التدرجات الدقيقة أو ملامح وجه واضحة",
+      "استخدامات تحتاج رسوماً متجهية نظيفة أو شعاراً تجارياً حاداً أو أيقونة واجهة حديثة",
+      "طلب مظهر الصورة الفوتوغرافية كاملاً أو رسم صغير أو زخارف"
+    ]
+  }
+}
